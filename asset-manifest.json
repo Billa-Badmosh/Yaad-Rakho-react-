@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Yaad-Rakho-react-/static/css/main.ac5ef664.css",
+    "main.js": "/Yaad-Rakho-react-/static/js/main.d7b5ea2e.js",
+    "index.html": "/Yaad-Rakho-react-/index.html",
+    "main.ac5ef664.css.map": "/Yaad-Rakho-react-/static/css/main.ac5ef664.css.map",
+    "main.d7b5ea2e.js.map": "/Yaad-Rakho-react-/static/js/main.d7b5ea2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac5ef664.css",
+    "static/js/main.d7b5ea2e.js"
+  ]
+}
